@@ -1,6 +1,11 @@
 # minimal-ao3
 A light minimal responsive theme for Archiveofourown.org
 
+![](https://github.com/electricalice/minimal-ao3/blob/master/images/browse.png)
+
+![](https://github.com/electricalice/minimal-ao3/blob/master/images/fic.png)
+
+![](https://github.com/electricalice/minimal-ao3/blob/master/images/profile.png)
 
 This is a skin for the website Archiveofourown.org made by Electricalice.tumblr.com (electricalice on ao3 as well)
 
