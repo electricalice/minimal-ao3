@@ -1056,3 +1056,43 @@ ul.series li {
 .bookmark .count a {
   color: #393E46;
 }
+
+
+
+input[name="preview_button"] {
+    color: #f7f7f7;
+    background: #26ba9a !important;
+    border: none;
+    border-bottom: none;
+    background-image: none;
+    border-radius: .25em;
+    box-shadow: none;
+}
+input[name="post_button"] {
+    color: #f7f7f7;
+    background: #ce4c4c !important;
+    border: none;
+    border-bottom: none;
+    background-image: none;
+    border-radius: .25em;
+    box-shadow: none;
+}
+
+input[name="preview_button"]:hover {
+    color: #f7f7f7 !important;
+    background: #14a085 !important;
+    border: none;
+    border-bottom: none;
+    background-image: none;
+    border-radius: .25em;
+    box-shadow: none;
+}
+input[name="post_button"]:hover {
+    color: #f7f7f7 !important;
+    background: #802f35 !important;
+    border: none;
+    border-bottom: none;
+    background-image: none;
+    border-radius: .25em;
+    box-shadow: none;
+}
