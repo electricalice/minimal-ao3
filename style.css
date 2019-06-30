@@ -1057,7 +1057,27 @@ ul.series li {
   color: #393E46;
 }
 
+.announcement .userstuff{
+    background: #ce4c4c;
+    border-color: #ce4c4c;
+    color: #ffffff;
+    
+    
+}
 
+.announcement .userstuff p {
+        color: #ffffff;
+    
+}
+
+.announcement input[type="submit"], .announcement .action {
+    background: #fff none;
+    border: 1px solid #ce4c4c;
+    color: #000000;
+    font-size: .875em;
+    padding: .25em .5em;
+    border-radius: 2em;
+}
 
 input[name="preview_button"] {
     color: #f7f7f7;
