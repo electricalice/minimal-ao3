@@ -23,7 +23,7 @@ I also just checked compatibility on chrome and safari. Not sure about other bro
 * click on the button *create new skin*
 * Make sure Type is *Site Skin*
 * Add a Title to your skin
-* **Select and Copy ALL the code you'll find in the style.css file you'll find in this repository**
+* **Select and Copy ALL the code you'll find in the style-LIGHT.css file (or style-DARK.css if you want the darker version) you'll find in this repository**
 * Paste the code *in the field 'CSS'*
 * click **SUBMIT**
 * scroll to the bottom on the page and click on "USE" 
