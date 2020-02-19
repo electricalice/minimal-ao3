@@ -1,4 +1,5 @@
 body,
+body.javascript,
 th,
 tr:hover,
 col.name,
@@ -821,6 +822,10 @@ dl.nomination {
   box-shadow: none;
 }
 
+#outer.wrapper {
+  background-color: transparent !important;
+}
+
 h2,
 .system p#signup,
 #header h2 {
@@ -1146,9 +1151,9 @@ input[name="post_button"]:hover {
 
 
 #footer {
-background: #464E59 !important;
-color: #eeeeee;
-border-top: none !important;
+  background: #464E59 !important;
+  color: #eeeeee;
+  border-top: none !important;
 }
 #footer .heading, #footer ul, #footer ul.navigation a {
   color: #eeeeee !important;
