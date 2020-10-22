@@ -1,0 +1,1118 @@
+body,
+th,
+tr:hover,
+col.name,
+form blockquote.userstuff,
+input:focus,
+select:focus, select,
+textarea:focus,
+.autocomplete div.dropdown ul,
+#ui-datepicker-div,
+#ibox_wrapper,
+#ibox_content,
+.toggled form,
+.dynamic form,
+.secondary,
+.listbox .index,
+.dashboard .listbox .index,
+.nomination dt {
+  background: #ffffff;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+}
+
+.home .header h2 {
+  border-bottom: 0px;
+
+}
+.subscription dd {
+    background-color: transparent !important;
+}
+.splash .favorite li:nth-of-type(odd) a:hover,
+.splash .favorite a:hover {
+  color: #fafafa;
+  background-color: #212121;
+}
+
+#dashboard .actions a,
+#dashboard .actions a:visited {
+  color: #212121 !important;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+}
+
+.blurb ul.required-tags {
+  background: #fafafa !important;
+}
+
+.filters dl {
+  background: #fafafa;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+}
+
+#dashboard .actions .current {
+  color: #212121 !important;
+  background: #ffffff;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+}
+
+#dashboard.own {
+  border: none;
+}
+
+.announcement .userstuff h2 {
+  margin-top: 10px;
+  color: #ffffff;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+}
+
+fieldset fieldset,
+fieldset dl dl,
+.fieldset,
+fieldset {
+  border-radius: 0.75em;
+  background: #ffffff;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+}
+
+.datetime p,
+.bookmark .datetime {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+}
+
+#header .user a,
+#header .user a:visited {
+  margin: 2px;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  color: #212121 !important;
+}
+
+.picture .header {
+  border: none;
+}
+
+li.comment, .thread .even {
+  border-radius: 0.75em;
+}
+
+
+.bookmark div.user {
+  border-radius: 0.5em;
+}
+
+.blurb .header .heading {
+  background: transparent !important;
+}
+
+.blurb .stats {
+  color: #000000;
+}
+
+.module .heading h4,
+.module .heading h5,
+h5.module .fandoms .heading,
+.blurb dl.stats,
+.blurb dl.stats dd,
+.meta .stats,
+.meta .stats dl dt,
+.meta .stats dl dd,
+.blurb dl.stats dt,
+.dashboard .own .work {
+  background: transparent !important;
+}
+
+h5.heading,
+.user .datetime,
+.bookmark .user .userstuff,
+.bookmark .user .meta {
+  margin: 10px;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+}
+
+.reading h4.viewed {
+  background: #fafafa;
+  border: 1px solid #212121;
+  padding: 0.50em;
+  border-radius: .25em;
+}
+
+.posted {
+  font-size: 0.8em;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+}
+
+#header .dropdown .menu .current {
+  background-color: #212121;
+  color: #fafafa;
+}
+
+#header .menu,
+#header .menu li a:link,
+#header .menu li a:visited {
+  border-radius: 0.75em;
+  background: #fafafa !important;
+  color: #212121 !important;
+  border: none;
+}
+
+#header .menu li a:hover,
+#header .dropdown:hover a {
+  color: #212121 !important;
+  background: #ffffff !important;
+}
+
+li.blurb {
+  border-radius: 0.75em;
+  background: #fafafa;
+  border: none;
+}
+
+.filters .submit input {
+  height: 100%;
+  margin: 1em 0;
+  min-height: 1.286em;
+  padding-left: 0;
+  padding-right: 0;
+  text-align: center;
+  color: #ffffff;
+  background: #212121;
+}
+
+#header #search > * {
+  width: 70%;
+  white-space: nowrap;
+  margin-right: 60px;
+}
+
+form.verbose legend,
+.verbose form legend {
+  height: auto;
+  width: auto;
+  font-size: 100%;
+  background: #c7c7c7;
+  color: #ffffff;
+  border: none;
+  padding: .5em;
+  box-shadow: none;
+  opacity: 1;
+  margin: 10px;
+  border-radius: .5em;
+}
+
+.actions input[type="text"],
+.textarea,
+.autocomplete input,
+form.search input[type="text"],
+form.search input[type="text"],
+li.search fieldset,
+.search input[type="text"] {
+  color: #212121;
+  background: #ffffff;
+  border: 1px solid #212121;
+  border-radius: .25em;
+  box-shadow: none;
+  font: 90% Avenir, Helvetica, Arial, sans-serif;
+  padding: 5px;
+  width: 90%;
+  -webkit-appearance: none;
+}
+
+.input,
+.highlighted {
+  border: none;
+}
+
+.filters input:checked+.indicator+span {
+  text-decoration: underline;
+  font-weight: normal;
+}
+
+#header .actions a:hover,
+#header .actions a:focus,
+#header .dropdown:hover a,
+#header .open a,
+#header .menu,
+#small_login,
+#header .dropdown:hover .current+.menu,
+.actions a,
+.actions a:link,
+.actions a:active,
+.actions a:visited,
+.current span,
+.current,
+a.current,
+.actions .current,
+.current,
+.current a:visited,
+.current a:link,
+#dashboard .current,
+.actions a:active,
+span.unread,
+.replied,
+span.claimed,
+.own,
+.unread,
+.child,
+.unwrangled,
+.unreviewed {
+  color: #ffffff;
+  background: #212121;
+  border: none;
+  border-bottom: none;
+  background-image: none;
+  border-radius: .25em;
+  box-shadow: none;
+}
+
+dl.index dd {
+  color: #212121;
+}
+
+.draft,
+.draft .wrapper {
+  color: #212121;
+}
+
+#header h2,
+#footer ul,
+#footer ul.navigation a,
+.autocomplete .dropdown ul li:hover,
+li.selected,
+a.tag:hover {
+  color: #fafafa;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+}
+
+tbody tr,
+thead td,
+#header #small_login,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+form dt,
+.actions a:active,
+.current,
+a.current,
+.current a:visited,
+.search span.tip,
+#header ul.primary .current {
+  border-color: #ffffff;
+}
+
+.heading a,
+.userstuff,
+.heading,
+#heading h3,
+.splash .module h3 {
+  color: #212121;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+}
+
+.listbox>.heading {
+  color: #212121;
+  padding: 10px;
+  padding-left: 15px;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+}
+
+.listbox .index {
+  background: #fafafa;
+}
+
+a.tag {
+  border-bottom: none;
+}
+
+.actions a,
+.actions a:link,
+.actions a:visited,
+.current,
+a.current,
+.current a:visited,
+.current a:link {
+  color: #ffffff !important;
+  background: #212121;
+  border: none;
+  border-bottom: none;
+  background-image: none;
+  border-radius: .25em;
+  box-shadow: none;
+}
+
+.listbox {
+  border: none;
+  border-radius: 0.5em;
+}
+
+.actions a:hover,
+.actions li .current a:hover {
+  background: #ffffff;
+  color: #212121 !important;
+  border: none;
+  border-bottom: none;
+  background-image: none;
+  border-radius: .25em;
+  box-shadow: none;
+}
+
+.action.top,
+.action a:link {
+  background: #212121;
+  color: #ffffff;
+  height: auto;
+  font-weight: bolder;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  padding: .15em .25em;
+}
+
+.splash .module h3 {
+  border-bottom: none;
+  font-variant: small-caps;
+  font-size: 1.914em;
+}
+
+.title {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-variant: small-caps;
+}
+
+.heading sup {
+  font-family: times new roman, serif;
+}
+
+.published,
+.comments {
+  font-size: 14px;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-variant: small-caps;
+}
+
+form .notice,
+form ul.notes {
+  box-shadow: none;
+}
+
+.actions a,
+.action,
+.actions input,
+input[type="submit"],
+button,
+.current,
+.actions label,
+li.relationships,
+li.relationships a,
+.thread .even,
+.preface h3 {
+  background-color: transparent;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+}
+
+a:hover,
+.splash .browse a:hover {
+  color: #c7c7c7;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+}
+
+#login-block,
+li.blurb,
+fieldset,
+form dl,
+#dashboard ul.navigation,
+#dashboard ul,
+#symbols-key dl,
+.toggled form,
+.dynamic form,
+div.comment,
+li.comment,
+.comment div.icon,
+.autocomplete div.dropdown ul,
+#modal,
+.bookmark p.count span,
+.ui-sortable li:hover,
+.actions a:hover,
+.actions input:hover,
+.userstuff blockquote {
+  border-color: #fafafa;
+}
+
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff {
+  box-shadow: none;
+}
+
+#header .actions a:hover,
+#header .actions a:focus,
+#header .dropdown:hover a,
+#header .open a,
+#header .menu,
+#small_login,
+#header .dropdown:hover .current+.menu,
+#dashboard .current,
+.actions a:active,
+.current,
+a.current,
+.current a:visited,
+span.unread,
+.replied,
+span.claimed,
+dl.index dd,
+.own,
+.draft,
+.draft .wrapper,
+.unread,
+.child,
+.unwrangled,
+.unreviewed {
+  background: #fafafa;
+}
+
+.actions a,
+.action,
+.actions input,
+input[type="submit"],
+button,
+.current,
+.actions label,
+a.cloud4,
+a.cloud5 {
+  color: #212121;
+}
+
+a:visited,
+a.cloud6 {
+  color: #212121;
+}
+
+thead,
+tfoot,
+tfoot td,
+th,
+tr:hover,
+col.name,
+input,
+textarea,
+#modal .content,
+.actions a,
+.action,
+.actions input,
+input[type="submit"],
+button,
+.current,
+.actions label,
+span.unread,
+.replied,
+span.claimed,
+.system .latest h3,
+.system div.news h3,
+.listbox,
+fieldset fieldset.listbox,
+dl.meta,
+.picture .header,
+.bookmark .user {
+  border-color: #212121;
+  background: #ffffff;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+li.blurb,
+.blurb .blurb,
+.listbox .index,
+.dashboard .listbox .index {
+  box-shadow: none;
+}
+
+#header ul.primary {
+  box-shadow: none;
+  padding: 1em;
+}
+
+#workskin img {
+  max-width: 95%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.autocomplete div.dropdown ul {
+  border: 1px solid #212121;
+  border-radius: 0.5em;
+}
+
+table,
+thead td,
+#header #small_login,
+#dashboard a:hover,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.ui-sortable li:hover,
+.listbox,
+fieldset fieldset.listbox,
+.readings-index h3,
+.search span.tip,
+.flash,
+.notice,
+.error,
+.comment_error {
+  background: #fafafa;
+}
+
+.comment h4.byline {
+  background: transparent;
+}
+
+body,
+#main.error,
+#main.slow,
+#main.maintenance,
+.required .autocomplete,
+.autocomplete .notice,
+.post .required .warnings,
+.listbox .heading,
+.listbox .heading a:visited,
+.userstuff h2,
+.userstuff caption,
+.userstuff table,
+.userstuff td,
+.userstuff col,
+.userstuff tr,
+.userstuff thead,
+.userstuff tfoot,
+.userstuff tbody,
+.userstuff th,
+.userstuff thead td,
+.userstuff th a,
+.userstuff th a:link,
+a.cloud3,
+#header .search input[type="text"] {
+  color: #212121;
+}
+
+.draft {
+  border-color: #212121;
+}
+
+.actions a,
+.action,
+.actions input,
+input[type="submit"],
+button,
+.current,
+.actions label,
+span.unread,
+.replied,
+span.claimed {
+  border-bottom-color: #212121;
+}
+
+.ui-sortable li:hover,
+.secondary,
+.wrapper,
+.ui-draggable form {
+  box-shadow: none;
+}
+
+#header #small_login {
+  box-shadow: none;
+}
+
+.delete a,
+span.delete {
+  box-shadow: none;
+}
+
+#header .primary .menu .current {
+  color: #484848 !important;
+}
+
+a,
+a:link,
+a:visited:hover,
+#dashboard a,
+#dashboard span,
+.autocomplete div.dropdown ul,
+.actions a:visited,
+.actions a:active,
+.current,
+a.current,
+.current a:visited,
+a.tag,
+.tags a,
+a.cloud1,
+a.cloud2 {
+  color: #000000;
+}
+
+.userstuff h3,
+#header .primary a,
+#header .primary .current,
+#header .primary input,
+#header .search input {
+  border-color: #484848;
+}
+
+.userstuff h3 {
+  border-bottom: 0px;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-size: 1.8em;
+}
+.userstuff h2 {
+
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-size: 2em;
+}
+
+.actions a:active,
+.current,
+a.current,
+.current a:visited {
+  box-shadow: none;
+}
+
+#header ul.primary,
+#footer,
+.autocomplete .dropdown ul li:hover,
+li.selected,
+a.tag:hover {
+  background: #212121;
+}
+
+#header #greeting img,
+#header .heading a,
+#header fieldset,
+#header form,
+#header p,
+#header .user a:hover,
+#header .user a:focus,
+#header .user .current,
+#dashboard a:hover,
+.actions a:hover,
+.actions input:hover,
+.delete a,
+span.delete,
+span.unread,
+.replied,
+span.claimed,
+.draggable,
+.droppable,
+span.requested,
+a.work,
+.blurb h4 a:link,
+.blurb h4 img,
+.system .latest h3,
+.system div.news h3,
+.system .tweets h3,
+.required,
+.error,
+a.cloud7,
+a.cloud8 {
+  color: #212121;
+}
+
+#outer #header #greeting .icon,
+#dashboard.own,
+.error,
+.comment_error,
+#header ul.primary,
+.LV_invalid,
+.LV_invalid_field,
+input.LV_invalid_field:hover,
+input.LV_invalid_field:active,
+textarea.LV_invalid_field:hover,
+textarea.LV_invalid_field:active,
+#header .primary a,
+#header .primary .current,
+#header .primary input,
+#header .search input {
+  border-color: #212121;
+}
+
+#dashboard a,
+.unread,
+#dashboard span,
+#dashboard.own,
+fieldset dl,
+fieldset.actions,
+fieldset dl fieldset dl,
+.dynamic form fieldset,
+.toggled form fieldset,
+.toggled form dl,
+.secondary .toggled form,
+.dashboard .own,
+.mods li,
+dl.stats dt,
+.blurb .header .heading,
+.blurb .header ul,
+.blurb .header p.status,
+fieldset.comments,
+.userstuff table,
+.userstuff td,
+.userstuff col,
+.userstuff tr,
+.userstuff thead,
+.userstuff tfoot,
+.userstuff tbody,
+.userstuff th,
+.userstuff thead td,
+.userstuff th a,
+.userstuff th a:link {
+  background: #ffffff;
+}
+
+#footer ul.navigation a {
+  color: #ffffff;
+}
+
+#footer a:hover,
+fieldset dl,
+fieldset.actions,
+fieldset dl fieldset dl,
+.dynamic form fieldset,
+.toggled form fieldset,
+.toggled form dl,
+.secondary .toggled form,
+.actions a,
+.action,
+.actions input,
+input[type="submit"],
+button,
+.current,
+.actions label,
+#outer.wrapper,
+#inner.wrapper,
+dl.index,
+dl.stats,
+.listbox,
+fieldset fieldset.listbox,
+.listbox li.blurb,
+fieldset.comments,
+dl.nomination {
+  box-shadow: none;
+}
+
+h2,
+.system p#signup,
+#header h2 {
+  text-shadow: none;
+}
+
+.dashboard .listbox {
+  border: 1px solid #c7c7c7;
+}
+
+.comment fieldset {
+  border: 0px;
+}
+
+#greeting img.icon {
+  border-radius: 2em;
+  height: 2.5em;
+  width: 2.5em;
+}
+
+.primary .icon,
+.icon {
+  border-radius: 4em;
+  height: 7em;
+  width: 7em;
+}
+
+.picture .icon img {
+  border-radius: 4em;
+  height: 7em;
+  width: 7em;
+  margin: -8px;
+}
+
+.icon {
+  padding: 5px;
+}
+
+.comment div.icon {
+  border-bottom: 0px;
+}
+
+span.symbol {
+  color: #212121;
+  background: #ffffff;
+  font-family: avenir, Georgia,serif;
+  border: 1px solid;
+  vertical-align: super;
+  border-radius: .75em;
+  box-shadow: none;
+}
+
+.notice {
+  border: 1px solid #212121;
+  background: #ffffff;
+  box-shadow: none;
+  padding: 1em;
+}
+
+#modal-bg {
+  background: #212121;
+}
+
+.characters a:before,
+.relationships a:before,
+.freeforms a:before,
+.meta a:before {
+  color: #212121;
+  content: "\2729";
+  padding: 0 .25em 0 0;
+}
+
+.splash .browse li a:before {
+  color: #212121;
+  content: "\272D";
+  padding: 0 .25em 0 0;
+}
+
+.kudos a:before {
+  color: #212121;
+  content: "\272D";
+  padding: 0 .25em 0 0;
+}
+
+.btn,
+input[type=submit],
+.actions li a,
+.actions li input,
+.actions li input[type="submit"],
+.actions li .current,
+.actions li label {
+  color: #ffffff;
+  background: #212121;
+  border: none;
+  border-bottom: none;
+  background-image: none;
+  border-radius: .25em;
+  box-shadow: none;
+}
+
+input[type="submit"],
+input[type="submit"]:hover {
+  border: 2px solid #212121;
+}
+
+.autocomplete {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+}
+
+.btn:hover,
+input[type="submit"]:hover,
+.actions li input[type="submit"]:hover,
+.actions .current:hover {
+  color: #212121;
+  background: #ffffff;
+  border: none;
+  border-bottom: none;
+  background-image: none;
+  border-radius: .25em;
+  box-shadow: none;
+}
+
+.tags input[type='radio'],
+.filters [type="radio"] + .indicator::before,
+.filters [type="radio"] + .indicator::before {
+  color: #212121;
+  background: #ffffff;
+  border: 1px solid #212121;
+  border-radius: 1em;
+  box-shadow: none;
+}
+
+.filters [type="radio"]:checked + .indicator::after,
+.filters [type="checkbox"]:checked + .indicator::after,
+[type="radio"]:checked + .indicator::after {
+  color: #ffffff;
+  background: #212121;
+}
+
+#header .primary>li:first-of-type {
+  margin-left: 2em;
+}
+
+#dashboard a,
+.unread,
+#dashboard span,
+#dashboard.own,
+fieldset dl,
+fieldset.actions,
+fieldset dl fieldset dl,
+.dynamic form fieldset,
+.toggled form fieldset,
+.toggled form dl,
+.secondary .toggled form,
+.dashboard .own,
+.mods li,
+dl.stats dt,
+.blurb .header .heading,
+.blurb .header ul,
+.blurb .header p.status,
+fieldset.comments,
+.userstuff table,
+.userstuff td,
+.userstuff col,
+.userstuff tr,
+.userstuff thead,
+.userstuff tfoot,
+.userstuff tbody,
+.userstuff th,
+.userstuff thead td,
+.userstuff th a,
+.userstuff th a:link {
+  background: #ffffff;
+}
+
+.assignment dl.stats,
+.assignment dl.stats dt,
+.assignment dl.stats dd,
+dl.stats,
+dl.stats dt {
+  background: transparent;
+  color: #000000;
+}
+
+.assignment .index dt {
+  margin-bottom: 5px;
+}
+
+.blurb dl.stats {
+  margin-bottom: 5px;
+}
+
+#dashboard {
+  border-bottom: 0px solid #ffffff;
+  border-top: 0px solid #ffffff;
+  padding: .5em 0;
+  border-radius: .25em;
+}
+
+.userstuff p {
+  color: #000000;
+  outline: none;
+  font-size: medium;
+}
+
+.user .datetime {
+  color: #000000;
+}
+
+.preface blockquote {
+  border: 0;
+  font-size: xx-small;
+}
+
+.assignment .datetime {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+}
+
+p.kudos {
+  background: none;
+  padding: .5em;
+}
+
+ul.series,
+ul.series li {
+  color: #000000;
+}
+
+.own .header, .inbox .actions, .inbox .comments, .pseud .header, .collection .header {
+  background-color: transparent;
+}
+
+.own .type {
+  color: #000000;
+}
+
+.faq .example, .guideline .example {
+  border: 0px;
+  background-color: #ffffff;
+  border-radius: 5px;
+}
+.comment .icon .visitor {
+  background: url(/images/imageset.png) no-repeat -1px -76px;
+  padding: 0px;
+  margin: 5px;
+}
+.skins .primary .icon, .admin .primary .icon {
+  padding: 0px;
+  margin: 10px;
+}
+.bookmark .count a {
+  color: #212121;
+}
+
+.announcement .userstuff{
+    background: #d50000;
+    border-color: #d50000;
+    color: #ffffff;
+    
+    
+}
+
+.announcement .userstuff p {
+        color: #ffffff;
+    
+}
+
+.announcement input[type="submit"], .announcement .action {
+    background: #fff none;
+    border: 1px solid #d50000;
+    color: #000000;
+    font-size: .875em;
+    padding: .25em .5em;
+    border-radius: 2em;
+}
+
+input[name="preview_button"] {
+    color: #ffffff;
+    background: #2e7d32 !important;
+    border: none;
+    border-bottom: none;
+    background-image: none;
+    border-radius: .25em;
+    box-shadow: none;
+}
+input[name="post_button"] {
+    color: #ffffff;
+    background: #d50000 !important;
+    border: none;
+    border-bottom: none;
+    background-image: none;
+    border-radius: .25em;
+    box-shadow: none;
+}
+
+input[name="preview_button"]:hover {
+    color: #ffffff !important;
+    background: #388e3c !important;
+    border: none;
+    border-bottom: none;
+    background-image: none;
+    border-radius: .25em;
+    box-shadow: none;
+}
+input[name="post_button"]:hover {
+    color: #ffffff !important;
+    background: #ff1744 !important;
+    border: none;
+    border-bottom: none;
+    background-image: none;
+    border-radius: .25em;
+    box-shadow: none;
+}
