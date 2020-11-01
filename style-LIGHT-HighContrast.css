@@ -19,6 +19,13 @@ textarea:focus,
   background: #ffffff;
   font-family: Avenir, Helvetica, Arial, sans-serif;
 }
+.notice, .comment_notice, ul.notes, .caution, .error, .comment_error, .alert.flash {
+  color: #fafafa;
+  background-color: #d50000; 
+  border: none;
+  box-shadow: none;
+  margin-top: 10px !important;
+}
 
 .home .header h2 {
   border-bottom: 0px;
