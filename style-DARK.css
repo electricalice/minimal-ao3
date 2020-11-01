@@ -21,7 +21,7 @@ textarea:focus, textarea,
   font-family: Avenir, Helvetica, Arial, sans-serif;
   color: #eeeeee;
 }
-.notice, .comment_notice, ul.notes, .caution, .error, .comment_error, .alert.flash {
+.comment_notice, ul.notes, .caution, .error, .comment_error, .alert.flash {
   color: #eee;
   background-color: #ce4c4c; 
   border: none;
