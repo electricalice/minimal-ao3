@@ -247,7 +247,7 @@ li.search fieldset,
 .current,
 a.current,
 .actions .current,
-.current, a.current, a:link.current,
+.current,
 .current a:visited,
 .current a:link,
 #dashboard .current,
@@ -500,6 +500,8 @@ a.cloud6 {
 thead,
 tfoot,
 tfoot td,
+th,
+tr:hover,
 col.name,
 input,
 textarea,
@@ -527,19 +529,6 @@ dl.meta,
   border-radius: 5px;
   margin-bottom: 10px;
 }
-
-th,
-tr:hover {
-
-  border: none;
-  background: #f7f7f7;
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  border-radius: 5px;
-  margin-bottom: 10px;
-
-}
-
-table {border-collapse: separate;}
 
 li.blurb,
 .blurb .blurb,
@@ -658,7 +647,7 @@ span.delete {
 
 a,
 a:link,
-a:visited,
+a:visited:hover,
 #dashboard a,
 #dashboard span,
 .autocomplete div.dropdown ul,
@@ -875,6 +864,7 @@ span.symbol {
 
 .notice {
   border: 1px solid #393E46;
+  color: #393E46;
   background: #f7f7f7;
   box-shadow: none;
   padding: 1em;
@@ -923,7 +913,7 @@ input[type=submit],
 
 input[type="submit"],
 input[type="submit"]:hover {
-  border: none;
+  border: 2px solid #393E46;
 }
 
 .autocomplete {
@@ -1134,7 +1124,3 @@ input[name="post_button"]:hover {
     border-radius: .25em;
     box-shadow: none;
 }
-
-th { vertical-align: middle;
-text-align: center; }
-td { vertical-align: middle;}

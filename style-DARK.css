@@ -21,6 +21,9 @@ textarea:focus, textarea,
   font-family: Avenir, Helvetica, Arial, sans-serif;
   color: #eeeeee;
 }
+#outer.wrapper {
+  background-color: #393e46 !important;
+}
 .comment_notice, ul.notes, .caution, .error, .comment_error, .alert.flash {
   color: #eee;
   background-color: #ce4c4c; 
@@ -255,7 +258,7 @@ li.search fieldset,
 .current,
 a.current,
 .actions .current,
-.current, a.current, a:link.current,
+.current,
 .current a:visited,
 .current a:link,
 #dashboard .current,
@@ -508,6 +511,8 @@ a.cloud6 {
 thead,
 tfoot,
 tfoot td,
+th,
+tr:hover,
 col.name,
 input,
 textarea,
@@ -535,17 +540,6 @@ dl.meta,
   border-radius: 5px;
   margin-bottom: 10px;
 }
-
-th,
-tr:hover {
-  border: none;
-  background: #393e46;
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  border-radius: 5px;
-  margin-bottom: 10px;
-
-}
-table {border-collapse: separate;}
 
 li.blurb,
 .blurb .blurb,
@@ -891,6 +885,7 @@ span.symbol {
 
 .notice {
   border: 1px solid #eeeeee;
+  color: #eeeeee;
   background: #393e46;
   box-shadow: none;
   padding: 1em;
@@ -1171,6 +1166,3 @@ border-top: none !important;
 }
 
 #footer a:hover {  box-shadow: none;}
-th { vertical-align: middle;
-text-align: center; }
-td { vertical-align: middle;}
